@@ -12,7 +12,7 @@ This project helps financial institutions make faster and more accurate decision
  #### 2. Build a reliable classification model
  #### 3. Improve decision-making efficiency in loan processing
 
- ### 📂 Dataset Information
+ ## 📂 Dataset Information
  The dataset contains applicant details such as:
  1. Gender
  2. Married
@@ -20,6 +20,43 @@ This project helps financial institutions make faster and more accurate decision
  4. LoanAmount
  5. Credit_History
  6. Loan_Status (Target Variable)
+
+## ⚙️ Technologies Used
+
+1. Python 🐍
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Matplotlib / Seaborn
+
+## 🧠 Machine Learning Algorithms
+The following algorithms can be used:
+ 1. Logistic Regression
+
+## 🔄 Project Workflow
+1. Data Collection
+2. Data Preprocessing
+3. Handling missing values
+4. Encoding categorical data
+5. Model Training
+6. Model Evaluation
+
+## 📊 Model Evaluation Metrics
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. Confusion Matrix
+
+## 📈 Sample Output
+The model predicts:
+
+1. Loan Approved ✅
+2. Loan Not Approved ❌
+
+## 🙌 Conclusion
+This project demonstrates how Machine Learning can be applied to real-world financial problems. It helps streamline the loan approval process and provides data-driven decision-making support.
+
  
 
  
