@@ -11,3 +11,18 @@ This project helps financial institutions make faster and more accurate decision
  #### 1. Predict loan approval status (Approved / Not Approved)
  #### 2. Build a reliable classification model
  #### 3. Improve decision-making efficiency in loan processing
+
+ ### 📂 Dataset Information
+ The dataset contains applicant details such as:
+ 1. Gender
+ 2. Married
+ 3. ApplicantIncome
+ 4. LoanAmount
+ 5. Credit_History
+ 6. Loan_Status (Target Variable)
+ 
+
+ 
+
+
+ 
