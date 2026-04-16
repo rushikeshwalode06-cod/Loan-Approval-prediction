@@ -7,6 +7,8 @@ The Loan Approval Prediction project aims to automate the process of loan approv
 
 This project helps financial institutions make faster and more accurate decisions while reducing manual effort and bias.
 
+![ML](https://github.com/rushikeshwalode06-cod/Loan-Approval-prediction/blob/main/Loan%20approval.png?raw=true)
+
 ## 🎯 Objective
  #### 1. Predict loan approval status (Approved / Not Approved)
  #### 2. Build a reliable classification model
