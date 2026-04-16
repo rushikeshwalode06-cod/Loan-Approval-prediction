@@ -33,7 +33,7 @@ This project helps financial institutions make faster and more accurate decision
 The following algorithms can be used:
  1. Logistic Regression
 
-    ![ML]("C:\Users\rushi\OneDrive\Desktop\Image\Logistic Regression Graph.png")
+ ![ML]("C:\Users\rushi\OneDrive\Desktop\Image\Logistic Regression Graph.png")
 
 ## 🔄 Project Workflow
 1. Data Collection
