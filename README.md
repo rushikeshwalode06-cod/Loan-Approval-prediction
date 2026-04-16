@@ -33,7 +33,7 @@ This project helps financial institutions make faster and more accurate decision
 The following algorithms can be used:
  1. Logistic Regression
 
- ![ML]("C:\Users\rushi\OneDrive\Desktop\Image\Logistic Regression Graph.png")
+ ![ML]("https://github.com/rushikeshwalode06-cod/Loan-Approval-prediction/blob/main/Loan%20approval%20Graph.png?raw=true")
 
 ## 🔄 Project Workflow
 1. Data Collection
@@ -41,7 +41,8 @@ The following algorithms can be used:
 3. Handling missing values
 4. Encoding categorical data
 5. Model Training
-6. Model Evaluation
+6. Model Testing 
+7. Model Evaluation
 
 ## 📊 Model Evaluation Metrics
 1. Accuracy
