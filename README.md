@@ -8,6 +8,6 @@ The Loan Approval Prediction project aims to automate the process of loan approv
 This project helps financial institutions make faster and more accurate decisions while reducing manual effort and bias.
 
 ## 🎯 Objective
-Predict loan approval status (Approved / Not Approved)
-Build a reliable classification model
-Improve decision-making efficiency in loan processing
+  Predict loan approval status (Approved / Not Approved)
+  Build a reliable classification model
+  Improve decision-making efficiency in loan processing
