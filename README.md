@@ -63,7 +63,7 @@ The model predicts:
 ## 🙌 Conclusion
 The Loan Approval Prediction project successfully uses Logistic Regression to predict whether a loan application is likely to be approved or rejected. The model was trained after preprocessing the data, handling missing values, and encoding categorical features. Performance was evaluated using Accuracy, Precision, Recall, F1 Score, and Confusion Matrix. Overall, the project demonstrates how machine learning can support automated loan approval prediction.
 
-
+![ml](https://github.com/rushikeshwalode06-cod/Loan-Approval-prediction/blob/main/Loan_image.png?raw=true)
  
 
  
